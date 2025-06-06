@@ -1,0 +1,15 @@
+red_light
+yellow_light
+green_light
+recyclable_open
+recyclable_close
+hazardous_open
+hazardous_close
+residual_open
+residual_close
+food_open
+food_close
+floor
+fire
+ordinary_plp
+professional_plp
