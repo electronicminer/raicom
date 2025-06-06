@@ -1,14 +1,25 @@
 requirements.txt
+
 pip install --pre paddlepaddle -i https://www.paddlepaddle.org.cn/packages/nightly/cpu/
+
 pip install --pre paddleocr=2.10.0
+
 absl-py==2.3.0
+
 albucore==0.0.17
+
 albumentations==1.4.18
+
 annotated-types==0.7.0
+
 anyio==4.5.2
+
 astor==0.8.1
+
 asttokens==3.0.0
+
 backcall==0.2.0
+
 beautifulsoup4==4.13.4
 cachetools==5.5.2
 certifi==2025.4.26
